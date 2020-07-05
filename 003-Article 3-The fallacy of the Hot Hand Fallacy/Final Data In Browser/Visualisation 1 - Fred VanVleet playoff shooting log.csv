@@ -1,0 +1,99 @@
+Opponent,GameID,ShotID,Success,Score
+Orlando Magic,1,1,TRUE,22 - 18
+Orlando Magic,1,2,TRUE,25 - 18
+Orlando Magic,1,3,FALSE,30 - 25
+Orlando Magic,1,4,FALSE,34 - 30
+Orlando Magic,1,5,FALSE,76 - 75
+Orlando Magic,1,6,TRUE,82 - 82
+Orlando Magic,2,1,FALSE,26 - 18
+Orlando Magic,2,2,FALSE,26 - 18
+Orlando Magic,3,1,FALSE,24 - 21
+Orlando Magic,3,2,FALSE,76 - 63
+Orlando Magic,4,1,TRUE,26 - 22
+Orlando Magic,4,2,FALSE,75 - 62
+Orlando Magic,5,1,TRUE,40 - 26
+Orlando Magic,5,2,FALSE,61 - 42
+Orlando Magic,5,3,FALSE,99 - 70
+Orlando Magic,5,4,FALSE,105 - 75
+Philadelphia 76ers,6,1,FALSE,96 - 83
+Philadelphia 76ers,7,1,FALSE,17 - 26
+Philadelphia 76ers,8,1,FALSE,29 - 34
+Philadelphia 76ers,8,2,FALSE,34 - 45
+Philadelphia 76ers,8,3,FALSE,36 - 45
+Philadelphia 76ers,8,4,FALSE,84 - 102
+Philadelphia 76ers,8,5,FALSE,90 - 114
+Philadelphia 76ers,10,1,TRUE,23 - 19
+Philadelphia 76ers,10,2,FALSE,92 - 70
+Philadelphia 76ers,10,3,FALSE,101 - 74
+Philadelphia 76ers,10,4,FALSE,110 - 77
+Philadelphia 76ers,11,1,FALSE,101 - 112
+Philadelphia 76ers,12,1,FALSE,18 - 13
+Philadelphia 76ers,12,2,FALSE,58 - 54
+Milwaukee Bucks,13,1,FALSE,32 - 23
+Milwaukee Bucks,13,2,FALSE,83 - 79
+Milwaukee Bucks,14,1,TRUE,70 - 83
+Milwaukee Bucks,15,1,FALSE,33 - 27
+Milwaukee Bucks,15,2,FALSE,77 - 73
+Milwaukee Bucks,15,3,FALSE,79 - 75
+Milwaukee Bucks,15,4,FALSE,88 - 86
+Milwaukee Bucks,15,5,TRUE,91 - 88
+Milwaukee Bucks,15,6,FALSE,96 - 92
+Milwaukee Bucks,15,7,FALSE,103 - 105
+Milwaukee Bucks,15,8,FALSE,112 - 110
+Milwaukee Bucks,16,1,TRUE,27 - 27
+Milwaukee Bucks,16,2,TRUE,52 - 44
+Milwaukee Bucks,16,3,TRUE,99 - 82
+Milwaukee Bucks,17,1,TRUE,18 - 24
+Milwaukee Bucks,17,2,TRUE,32 - 34
+Milwaukee Bucks,17,3,FALSE,51 - 61
+Milwaukee Bucks,17,4,TRUE,56 - 63
+Milwaukee Bucks,17,5,TRUE,59 - 63
+Milwaukee Bucks,17,6,TRUE,63 - 66
+Milwaukee Bucks,17,7,FALSE,72 - 75
+Milwaukee Bucks,17,8,TRUE,79 - 78
+Milwaukee Bucks,17,9,TRUE,96 - 93
+Milwaukee Bucks,18,1,TRUE,21 - 33
+Milwaukee Bucks,18,2,FALSE,30 - 39
+Milwaukee Bucks,18,3,TRUE,37 - 44
+Milwaukee Bucks,18,4,TRUE,43 - 46
+Milwaukee Bucks,18,5,TRUE,83 - 78
+Golden State Warriors,19,1,FALSE,22 - 19
+Golden State Warriors,19,2,TRUE,36 - 31
+Golden State Warriors,19,3,FALSE,79 - 72
+Golden State Warriors,19,4,FALSE,106 - 94
+Golden State Warriors,20,1,FALSE,106 - 94
+Golden State Warriors,20,2,FALSE,19 - 19
+Golden State Warriors,20,3,TRUE,32 - 28
+Golden State Warriors,20,4,FALSE,32 - 28
+Golden State Warriors,20,5,FALSE,59 - 65
+Golden State Warriors,20,6,TRUE,62 - 72
+Golden State Warriors,20,7,FALSE,62 - 72
+Golden State Warriors,20,8,FALSE,95 - 106
+Golden State Warriors,21,1,TRUE,41 - 31
+Golden State Warriors,21,2,FALSE,43 - 33
+Golden State Warriors,21,3,FALSE,66 - 55
+Golden State Warriors,21,4,TRUE,76 - 65
+Golden State Warriors,21,5,FALSE,115 - 105
+Golden State Warriors,21,6,TRUE,118 - 105
+Golden State Warriors,22,1,FALSE,10 - 15
+Golden State Warriors,22,2,FALSE,50 - 53
+Golden State Warriors,22,3,TRUE,53 - 55
+Golden State Warriors,22,4,TRUE,82 - 67
+Golden State Warriors,22,5,FALSE,82 - 70
+Golden State Warriors,23,1,FALSE,28 - 34
+Golden State Warriors,23,2,FALSE,56 - 64
+Golden State Warriors,23,3,TRUE,61 - 67
+Golden State Warriors,23,4,FALSE,63 - 70
+Golden State Warriors,23,5,TRUE,66 - 77
+Golden State Warriors,23,6,TRUE,71 - 77
+Golden State Warriors,24,1,TRUE,25 - 20
+Golden State Warriors,24,2,FALSE,26 - 20
+Golden State Warriors,24,3,FALSE,26 - 22
+Golden State Warriors,24,4,TRUE,43 - 38
+Golden State Warriors,24,5,FALSE,72 - 67
+Golden State Warriors,24,6,FALSE,76 - 78
+Golden State Warriors,24,7,TRUE,91 - 91
+Golden State Warriors,24,8,TRUE,94 - 93
+Golden State Warriors,24,9,FALSE,99 - 99
+Golden State Warriors,24,10,TRUE,104 - 101
+Golden State Warriors,24,11,FALSE,104 - 101

@@ -1,0 +1,51 @@
+initialPosition,SortingID,SongTitle,Artist,Colour,FisherYatesID,EvenSortingMethodID
+0,Adele1,Chasing Pavements,Adele,#ff0000,29,35
+1,Adele2,Hello,Adele,#ff0000,3,4
+2,Adele3,Hometown Glory,Adele,#ff0000,17,41
+3,Adele4,Make You Feel My Love,Adele,#ff0000,22,26
+4,Adele5,Rolling In The Deep,Adele,#ff0000,27,15
+5,Adele6,Set Fire To The Rain,Adele,#ff0000,48,46
+6,Adele7,Someone Like You,Adele,#ff0000,1,21
+7,Adele8,When We Were Young,Adele,#ff0000,45,10
+8,ArcadeFire9,Neighbourhood,Arcade Fire,#ffa500,44,6
+9,ArcadeFire10,Ready To Start,Arcade Fire,#ffa500,42,33
+10,ArcadeFire11,Sprawl II,Arcade Fire,#ffa500,37,44
+11,ArcadeFire12,The Suburbs,Arcade Fire,#ffa500,46,13
+12,ArcadeFire13,Wake Up,Arcade Fire,#ffa500,36,24
+13,EdSheeran14,Castle On The Hill,Ed Sheeran,#ffff00,5,40
+14,EdSheeran15,Perfect,Ed Sheeran,#ffff00,32,7
+15,EdSheeran16,Shape Of You,Ed Sheeran,#ffff00,14,27
+16,FleetwoodMac17,Big Love,Fleetwood Mac,#008000,35,45
+17,FleetwoodMac18,Dreams,Fleetwood Mac,#008000,24,30
+18,FleetwoodMac19,Everywhere,Fleetwood Mac,#008000,12,3
+19,FleetwoodMac20,Go Your Own Way,Fleetwood Mac,#008000,16,20
+20,FleetwoodMac21,Little Lies,Fleetwood Mac,#008000,47,11
+21,FleetwoodMac22,The Chain,Fleetwood Mac,#008000,7,37
+22,Florence23,Delilah,Florence + The Machine,#3CAEA3,13,9
+23,Florence24,Dog Days Are Over,Florence + The Machine,#3CAEA3,19,0
+24,Florence25,"How Big, How Blue, How Beautiful",Florence + The Machine,#3CAEA3,28,22
+25,Florence26,Leave My Body,Florence + The Machine,#3CAEA3,43,47
+26,Florence27,Only If For A Night,Florence + The Machine,#3CAEA3,39,28
+27,Florence28,Shake It Out,Florence + The Machine,#3CAEA3,26,34
+28,Florence29,Ship To Wreck,Florence + The Machine,#3CAEA3,40,39
+29,Florence30,You've Got The Love,Florence + The Machine,#3CAEA3,4,16
+30,Madonna31,La Isla Bonita,Madonna,#0000ff,34,31
+31,Madonna32,Music,Madonna,#0000ff,38,2
+32,Madonna33,Papa Don't Preach,Madonna,#0000ff,11,42
+33,Madonna34,Vogue,Madonna,#0000ff,41,17
+34,Queen35,Bohemian Rhapsody,Queen,#4b0082,30,12
+35,Queen36,Crazy Little Thing Called Love,Queen,#4b0082,0,18
+36,Queen37,Killer Queen,Queen,#4b0082,8,48
+37,Queen38,Radio Ga Ga,Queen,#4b0082,9,25
+38,Queen39,Seven Seas Of Rhye,Queen,#4b0082,31,38
+39,Queen40,Somebody To Love,Queen,#4b0082,18,5
+40,Queen41,Under Pressure,Queen,#4b0082,10,32
+41,Beatles42,All You Need Is Love,The Beatles,#ee82ee,25,19
+42,Beatles43,Blackbird,The Beatles,#ee82ee,23,1
+43,Beatles44,Hello Goodbye,The Beatles,#ee82ee,49,8
+44,Beatles45,Help,The Beatles,#ee82ee,21,29
+45,Beatles46,Here Comes The Sun,The Beatles,#ee82ee,20,36
+46,Beatles47,I Want To Hold Your Hand,The Beatles,#ee82ee,15,23
+47,Beatles48,Let It Be,The Beatles,#ee82ee,33,43
+48,Beatles49,She Loves You,The Beatles,#ee82ee,2,14
+49,Beatles50,Yesterday,The Beatles,#ee82ee,6,49
